@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="256.000000pt"
+   height="256.000000pt"
+   viewBox="0 0 256.000000 256.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg248"
+   sodipodi:docname="user-icon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs252" />
+  <sodipodi:namedview
+     id="namedview250"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="3.0087891"
+     inkscape:cx="116.32587"
+     inkscape:cy="170.99903"
+     inkscape:window-width="1450"
+     inkscape:window-height="1243"
+     inkscape:window-x="4596"
+     inkscape:window-y="485"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg248" />
+  <g
+     transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g246">
+    <path
+       d="M1066 2384 c-99 -19 -189 -51 -290 -101 -309 -155 -536 -455 -601 -796 -19 -103 -19 -311 0 -414 43 -228 155 -434 326 -599 94 -91 164 -141 270 -194 172 -87 312 -120 509 -120 197 0 337 33 509 120 206 103 388 285 491 490 87 173 120 313 120 510 0 197 -33 337 -120 509 -153 305 -455 532 -793 596 -98 19 -326 18 -421 -1z m384 -570 c83 -39 155 -111 194 -194 29 -60 31 -73 31 -170 0 -99 -2 -110 -33 -172 -41 -84 -128 -167 -209 -199 -82 -33 -224 -33 -306 0 -81 32 -168 115 -209 199 -31 62 -33 73 -33 172 0 97 2 110 31 170 72 152 203 231 374 227 83 -2 103 -6 160 -33z m-340 -864 c119 -42 221 -42 344 1 75 26 95 29 127 21 105 -27 262 -150 350 -276 l49 -70 -37 -39 c-102 -106 -276 -207 -428 -248 -66 -19 -107 -22 -235 -22 -128 0 -169 3 -235 22 -152 41 -326 142 -428 248 l-37 39 49 70 c98 140 285 279 381 283 8 0 53 -13 100 -29z"
+       id="path244" />
+  </g>
+  <ellipse
+     style="fill:#ffffff;stroke-width:0.75"
+     id="path502"
+     cx="127.12756"
+     cy="112.04674"
+     rx="41.378773"
+     ry="41.004868" />
+</svg>
