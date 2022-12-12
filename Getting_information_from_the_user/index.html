@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- gaberoche42@gmail.com -->
+
+<head>
+    <meta charset="utf-8">
+    <title>Getting information from the user</title>
+</head>
+
+<body>
+    <h1>Contact Page</h1>
+
+    <form action="/login" method="post">
+        <label for="name">Name</label>
+        <input type="text" name="name" required>
+        <br>
+        <label for="email">Email</label>
+        <input type="email" name="email" required>
+        <br>
+        <label for="message">Message</label>
+        <textarea name="message" required></textarea>
+        <br>
+        <label for="priority">Priority</label>
+        <select name="priority" required>
+            <option value="Low">Low</option>
+            <option value="Normal" selected>Normal</option>
+            <option value="High">High</option>
+        </select>
+        <br>
+        <input type="submit" name="submit" value="Send">
+    </form>
+
+</body>
+
+</html>
